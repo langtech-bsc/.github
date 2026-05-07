@@ -1,0 +1,1 @@
+This GitHub organization belongs to the Barcelona Supercomputing Center (BSC). It is not affiliated with, sponsored by, or endorsed by LangTec. No association between BSC and the LangTec trademark is intended.
